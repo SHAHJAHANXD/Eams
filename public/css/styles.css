@@ -1,0 +1,108 @@
+html
+{
+    background-color: white;
+}
+
+[class*=sidebar-dark-] {
+    background: #000238;
+    color: white;
+}
+.color-white
+{
+    color: white !important;
+}
+.bg-color-white
+{
+    background-color: white;
+}
+/* .sidebar {
+    background: white !important;
+} */
+
+.main-header{
+    min-height: 80px;
+}
+.brand-link {
+    padding-top:24px;
+    padding-bottom: 24px;
+}
+
+[class*=sidebar-dark-] .nav-treeview>.nav-item>.nav-link:focus, [class*=sidebar-dark-] .nav-treeview>.nav-item>.nav-link:hover {
+    background-color: rgba(255,255,255,.1);
+    color: #000238;
+}
+[class*=sidebar-dark-] .nav-sidebar>.nav-item.menu-open>.nav-link, [class*=sidebar-dark-] .nav-sidebar>.nav-item:hover>.nav-link, [class*=sidebar-dark-] .nav-sidebar>.nav-item>.nav-link:focus {
+    background-color: rgba(255,255,255,.1);
+    color: #000238
+}
+
+[class*=sidebar-dark-] .sidebar a {
+    color: #4f4f4f;
+}
+
+.btnCustom{
+    box-shadow: 4px 5px 10px grey;
+    border-radius: 10px;
+    width: 140px;
+    height: 50px;
+    border: none;
+    color: white;
+    padding: 14px 24px;
+    cursor: pointer;
+}
+.btnCustom:focus{
+    outline: none;
+    border: none;
+}
+.btnGreen{
+    background: #00b44e;
+}
+
+.btnRed{
+    background: #ff2e2e;
+}
+
+#preview{
+    border: 1px solid grey;
+    background: #0c0c0c;
+    padding: 10px 0px;
+}
+.card-primary:not(.card-outline)>.card-header {
+    background-color: #000238 !important;
+}
+.btn-primary {
+    background-color: #000238;
+    border-color: #7672fd;
+}
+.height-20
+{
+    height: 20px !important;
+}
+.loggo
+{
+    border-radius: 20px;
+    background: black;
+    padding: 10px 50px;
+}
+.p-logo
+{
+    font-size: 40px;
+    color: white;
+}
+
+.nav-link
+{
+    color: black !important;
+}
+.login-page
+{
+    background-image: url('../images/Group\ 4.png');
+}
+.m-r-10
+{
+    margin-right: 10px;
+}
+.content
+{
+    background-color: linear-gradient(to top, #3399ff 0%, #ccccff 100%) !important;
+}

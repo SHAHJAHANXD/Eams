@@ -1,0 +1,17 @@
+
+Msecrets:S6334!"/Make sure this Google API Key is not disclosed.(Àïü›øÿÿÿÿ
+j	php:S3776“"TRefactor this function to reduce its Cognitive Complexity from 17 to the 15 allowed.(ÚøÙĞ
+p	php:S1192>"[Define a constant instead of duplicating this literal "employee.attendance.create" 3 times.(Å¯É«
+G	php:S1172¶",Remove the unused function parameter "$key".(­Ì­Æşÿÿÿÿ
+A	php:S1172Ç",Remove the unused function parameter "$key".(¾—À
+G	php:S1172ç",Remove the unused function parameter "$key".(‹áêğûÿÿÿÿ
+B	php:S1172ö",Remove the unused function parameter "$key".(Ú®˜
+G	php:S1172ş",Remove the unused function parameter "$key".(§ççÊúÿÿÿÿ
+I	php:S10668"/Merge this if statement with the enclosing one.(±Æ•ôûÿÿÿÿ
+8php:S125 "Remove this commented out code.(†İá‘üÿÿÿÿ
+8php:S125$"Remove this commented out code.(ÖÁ÷Òúÿÿÿÿ
+Iphp:S121:"0Add curly braces around the nested statement(s).(“ğÿÿÿÿÿ
+Ephp:S121‰"0Add curly braces around the nested statement(s).(Ï—¸
+Ephp:S121ì"0Add curly braces around the nested statement(s).(ŠÉú
+Jphp:S121ø"0Add curly braces around the nested statement(s).(¥ò®öøÿÿÿÿ
+Jphp:S121ƒ"0Add curly braces around the nested statement(s).(Åõ˜ÿúÿÿÿÿ
